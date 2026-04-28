@@ -1,8 +1,6 @@
 # Parking Space Sales Management System (SmartPark)
 
-**Developer:** Kagiraneza Generas  
-**Exam:** National Practical Exam 2026  
-**Company:** SmartPark Rwanda - Huye District
+**Developer:** Kagiraneza Generas   
 
 ---
 
